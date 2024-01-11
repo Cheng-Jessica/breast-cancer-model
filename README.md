@@ -8,9 +8,9 @@ Explore how well different model perform for several different parameter values.
 Present a brief overview of your predictive modeling process, explorations, and discuss your results. Make sure you present information about the model “goodness” (possible things to think about: confusion matrix, predictive accuracy, classification error, precision, recall, f-measure).
 
 # [Conclusion]
-|Model| Types| Average | Accuracy | F1-Scores |
-|-----|------|---------|----------|-----------|
+|Model Types| Average Accuracy | F1-Scores |
+|-----------|------------------|-----------|
 |Decision Tree | 0.927 | 0.987 |
 |K-NN | 0.927 | 0.977|
-Logistic Regression 0.977 0.985
-SVM Classification 0.970 0.987
+|Logistic Regression | 0.977 | 0.985 |
+|SVM Classification | 0.970 | 0.987 |
